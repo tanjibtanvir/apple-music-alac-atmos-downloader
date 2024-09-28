@@ -1,8 +1,9 @@
 media-user-token: "AuTo/8Tpmz25is2EOVD7fO1cXqhNq0866hM28k9P8BHkFHw5S0dB4/INbJO09Q09FP71eYY/U/OSpFyxY1DELg+f9EZjs5yMbytWXRbg+zfoGPVZXATpRFYBWLgIJMMFdxgjrZZnvbgI/5vn3Q37n/PGl5GjSaRHXG4Ap9FpiNTJKUJ7VgTP6mcVX3sG4ms9xgAYNb9u+RcVh5PRhlAozin8keO3ijWhw5nA/kFct90mdYe9QQ==" #If you need to obtain the lyrics, need to change it
 authorization-token: "your-authorization-token" #You don't need to change it; it can automatically obtain token
+language: ""         #supportedLanguage by each storefront --> https://gist.github.com/itouakirai/c8ba9df9dc65bd300094103b058731d0
 lrc-type: "lyrics"   #lyrics or syllable-lyrics
 lrc-format: "lrc"   #lrc or ttml
-embed-lrc: true
+embed-lrc: true     #Unable to embed ttml lyrics
 save-lrc-file: false
 save-artist-cover: false
 save-animated-artwork: false    # If enabled, requires ffmpeg

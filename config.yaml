@@ -11,7 +11,7 @@ emby-animated-artwork: false    # If enabled, requires ffmpeg
 embed-cover: true
 cover-size: 3000x3000
 cover-format: jpg       #jpg png or original
-alac-save-folder: AM-DL downloads
+alac-save-folder: /storage/emulated/0/Music/Music Rippers/AM downloads/AM-DL downloads
 atmos-save-folder: AM-DL-Atmos downloads
 check: "http://drm.zhaarey.cn:19919/m3u8" # API or .txt
 force-api: false

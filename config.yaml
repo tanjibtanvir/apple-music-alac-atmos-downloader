@@ -1,7 +1,7 @@
-media-user-token: "AtJP+II+e876c+6/vkgB9WeGYB7gov/oaP9/+uM69v+uX/Hk4VfselQcL4C/D/Hw3+wKlDXjfnGpcpvJhxzQzDPdYQwYQCuk2RD351uALYpWWYD6knM/ItO5lPk/WiNfC+/Uil3wPLe51TwTvIfyLDFENIEHhGJ8xdainN22qbaZyR7sG9/YDJtVhNdFYJe4QNX/8fDH5rPIN63fR0ImBr2FEFUgd00xlGfpsWycIJU/6YxTAA==" #If you need to obtain the lyrics, need to change it
+media-user-token: "AioyYw60+UWZpO8fzLQqiW6OkfwKIcinDktNAXvANHIbdUS8xQKqwFpsmlBJbmYGbmAl03f3/jtc2Ln1sDuL2lV1/gQ7bDMGYVBRLuVCL9v/5gYrHBhWKQ1e4/OeWxE9opUEVxUjM3H30YOUH6VwUpfIHGdwCnlYskp5a5fyWW+9zuCVD87EZFNaXoIAHNBq6wCaX0KCPjtvrcrMyFHMha5VpBme4iVPTl2cXuA6FWzR34hlfA==" #If you need to obtain the lyrics, need to change it
 authorization-token: "your-authorization-token" #You don't need to change it; it can automatically obtain token
 language: ""         #supportedLanguage by each storefront --> https://gist.github.com/itouakirai/c8ba9df9dc65bd300094103b058731d0
-lrc-type: "lyrics"   #lyrics or syllable-lyrics
+lrc-type: "syllable-lyrics"   #lyrics or syllable-lyrics
 lrc-format: "lrc"   #lrc or ttml
 embed-lrc: true     #Unable to embed ttml lyrics
 save-lrc-file: false

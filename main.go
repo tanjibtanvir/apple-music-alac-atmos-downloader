@@ -2642,7 +2642,7 @@ func getToken() (string, error) {
 		return "", err
 	}
 
-	regex := regexp.MustCompile(`/assets/index-legacy-[^/]+\.js`)
+	regex := regexp.MustCompile(`/assets/index-legacy~[^/]+\.js`)
 	indexJsUri := regex.FindString(string(body))
 
 	req, err = http.NewRequest("GET", "https://beta.music.apple.com"+indexJsUri, nil)

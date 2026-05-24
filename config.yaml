@@ -1,4 +1,4 @@
-media-user-token: "AsUrUTbwbh1Epcibd1vxU8CtucyPb2ODqg+78cUctTJPVxAmT/sMuR25liCta46ZLem84yloLVaMaW9fSmYo8sdA73w7DTde2VQu4AGeDEJF+TcobZQqgK0bRcvJG3APn1Wm/hK6i/vSjZtGNZoMAmNtplWFkxB1sUh1bwmq57HIguCpJBWhGAoaUHN46YGk5zRzhZ5Kbs1D8grcUGzI7Fvq5Rm019R7CExxdRGM9oWYZTY4JA==" #If you need to obtain the lyrics, need to change it
+media-user-token: "0.AqAfpx43x7LFc28s+Bz6eCF5LhIhp1jhaBzKqJ9yEyVr9pQMhTeGBdy2aivnmJVq7aNQZPmPkcUREjQOYoEefOadI3EQG1E4RPtLXW1J/g0JPC+GLBYEZKM0RmEvjkL4gERlHocnXdthCafH3ebK8lDjhMmrwRUoMn8HEOW0n/4nu9ESvfjrlW7nPDzk0pYtO/q8JLH/stMWuGZY78ccFABCE8F0/hM3js+AbZAIv7d1p+Zaag==" #If you need to obtain the lyrics, need to change it
 authorization-token: "your-authorization-token" #You don't need to change it; it can automatically obtain token
 language: ""         #supportedLanguage by each storefront --> https://gist.github.com/itouakirai/c8ba9df9dc65bd300094103b058731d0
 lrc-type: "lyrics"   #lyrics or syllable-lyrics
